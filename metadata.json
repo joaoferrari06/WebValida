@@ -1,0 +1,5 @@
+{
+  "name": "Validador Intelbras",
+  "description": "Ferramenta técnica para validação rápida e precisa de chaves de ativação entre prints e PDFs.",
+  "requestFramePermissions": []
+}
