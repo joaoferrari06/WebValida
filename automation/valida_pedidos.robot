@@ -12,8 +12,8 @@ ${MAX_PEDIDOS_TESTE}   1
 # ================= DADOS DE LOGIN E URLS =================
 ${URL_BACKOFFICE}      https://portal.backoffice.stag.isec.intelbras.com.br/auth/login
 ${URL_MEU_SITE}        http://localhost:3000/
-${USER_EMAIL}          defense.conta.hml@intelbras.com.br
-${USER_PASS}           @FW397hYuY81M]f+Ei!@
+${USER_EMAIL}          # Email
+${USER_PASS}           # Senha
 ${DIRETORIO_DOWNLOAD}  ${CURDIR}${/}Downloads_Robo    # Cria uma pasta "Downloads_Robo" no mesmo local do script
 
 # ================= XPATHS LOGIN E NAVEGAÇÃO =================
